@@ -1,0 +1,7 @@
+pynput==1.7.6
+psutil==5.9.5
+cryptography==41.0.3
+pywin32==306; platform_system=="Windows"
+pyinstaller==6.3.0; platform_system=="Windows"
+zlib; platform_system=="Windows"  # Log sıkıştırma için
+python-dateutil>=2.8.2  # Tarih işlemleri için 
